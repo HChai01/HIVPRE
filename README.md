@@ -1,7 +1,7 @@
 # Feature encoding
 This is the Java implementation for encoding some genome-, proteome- and gene ontology-based features that require data processing.
 
-Here is the list and description:
+- Here is the list and description:
   For genome-based features:
     Nucleotide_composition.java -- calculate 23 nucleotide composition in the coding sequence.
     Codon_usage_CDS.java -- calculate 64 codon usage in the coding sequence.
