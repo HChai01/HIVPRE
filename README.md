@@ -1,5 +1,6 @@
 # Feature encoding
 This is the Java implementation for encoding some genome-, proteome- and gene ontology-based features that require data processing.
+Please cite our paper when using these codes or data: Haiting Chai, Quan Gu, Joseph Hughes and David L. Robertson (202X), In silico prediction of HIV-1-host molecular interactions and their directionality, PLOS Computational Biology, XX(X): XXX-XXX, PMID: XXXXXXXX.
 
 Here is the list and description:
 For genome-based features:
