@@ -20,8 +20,8 @@ The example input files are placed at /HIVPRE/data/ while outputs for them can b
 
 Here is the list and description:
 - DNA_CDs_example.txt -- 3 coding sequence in [FASTA format](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp).
-- mRNA_example.txt
-- Protein_example.txt
-- Gene_Ontology_example.txt
+- mRNA_example.txt -- 3 mRNA sequence in FASTA format.
+- Protein_example.txt -- 3 protein sequence in FASTA format.
+- Gene_Ontology_example.txt -- 6 genes ontology annotaion data. 
 
 
