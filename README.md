@@ -1,1 +1,1 @@
-# Feature encoding for HIVPRE project, Java implementation
+# Encoding features, Java implementation
