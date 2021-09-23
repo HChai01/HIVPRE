@@ -12,7 +12,7 @@ For proteome-based features:
 - Amino_acid_composition.java calculate 37 amino acid composition in the coding sequence.
 
 For gene ontology-based features:
-- GO_root_biological_process.java -- map the Gene Ontology term to 29 child term of biological process (GO:0008150) through the derivation tree.
-- GO_root_molecular_function.java -- map the Gene Ontology term to 16 child term of molecular function (GO:0003674) through the derivation tree.
-- GO_root_cellular_component.java -- map the Gene Ontology term to 21 child term of cellular component (GO:0005575) through the derivation tree.
+- GO_root_biological_process.java -- map the Gene Ontology term to 29 child term of biological process through the derivation tree.
+- GO_root_molecular_function.java -- map the Gene Ontology term to 16 child term of molecular function through the derivation tree.
+- GO_root_cellular_component.java -- map the Gene Ontology term to 21 child term of cellular component through the derivation tree.
 
