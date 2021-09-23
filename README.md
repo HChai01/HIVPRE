@@ -8,7 +8,7 @@ For genome-based features:
 - Codon_usage_mRNA.java -- calculate 64 codon usage in the mRNA.
 
 For proteome-based features:
-- Amino_acid_composition.java calculate 37 amino acid composition in the coding sequence.
+- Amino_acid_composition.java -- calculate 37 amino acid composition in the coding sequence.
 
 For gene ontology-based features:
 - GO_root_biological_process.java -- map the Gene Ontology term to 29 child term of [biological process](https://www.ebi.ac.uk/QuickGO/term/GO:0008150) through the derivation tree.
