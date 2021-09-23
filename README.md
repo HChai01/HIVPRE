@@ -1,6 +1,5 @@
 # Feature encoding
 This is the Java implementation for encoding some genome-, proteome- and gene ontology-based features that require data processing.
-Please cite our paper when using these codes or data: Haiting Chai, Quan Gu, Joseph Hughes and David L. Robertson (202X), In silico prediction of HIV-1-host molecular interactions and their directionality, PLOS Computational Biology, XX(X): XXX-XXX, PMID: XXXXXXXX.
 
 Here is the list and description:
 For genome-based features:
@@ -24,5 +23,8 @@ Here is the list and description for the input examples:
 - mRNA_example.txt -- 3 mRNA sequences in FASTA format.
 - Protein_example.txt -- 3 protein sequences in FASTA format.
 - Gene_Ontology_example.txt -- 6 genes ontology annotaion data. 
+
+# Citation of codes and data
+Haiting Chai, Quan Gu, Joseph Hughes and David L. Robertson (202X), In silico prediction of HIV-1-host molecular interactions and their directionality, PLOS Computational Biology, XX(X): XXX-XXX, PMID: XXXXXXXX.
 
 
