@@ -15,12 +15,11 @@ For gene ontology-based features:
 - GO_root_molecular_function.java -- map the Gene Ontology term to 16 child term of [molecular function](https://www.ebi.ac.uk/QuickGO/term/GO:0003674) through the derivation tree.
 - GO_root_cellular_component.java -- map the Gene Ontology term to 21 child term of [cellular component](https://www.ebi.ac.uk/QuickGO/term/GO:0005575) through the derivation tree.
 
-# Environment settings
+# Environment and settings
 Our codes require support from [Java Platform and Standard Edition Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/#jdk17-linux). 
 
 We recommend to install [Eclipse IDE](https://www.eclipse.org/downloads/packages/release/kepler/sr2/eclipse-ide-java-ee-developers) to run our codes.
 
-Here is the instruction for the installation of Eclips: [Link](https://www.eclipse.org/downloads/packages/installer).
 
 # Input and output examples
 The example input files are placed at /HIVPRE/data/ while outputs for them can be found at /HIVPRE/data/Example_output/.
