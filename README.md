@@ -20,6 +20,8 @@ Our codes require support from [Java Platform and Standard Edition Development K
 
 We recommend to install [Eclipse IDE](https://www.eclipse.org/downloads/packages/release/kepler/sr2/eclipse-ide-java-ee-developers) to run our codes.
 
+Here is the instruction for the installation of Eclips: [Link](https://www.eclipse.org/downloads/packages/installer).
+
 # Input and output examples
 The example input files are placed at /HIVPRE/data/ while outputs for them can be found at /HIVPRE/data/Example_output/.
 
