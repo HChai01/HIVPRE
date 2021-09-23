@@ -1,1 +1,1 @@
-# Encoding features, Java implementation
+# Feature encoding, Java implementation
