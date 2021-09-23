@@ -19,9 +19,9 @@ For gene ontology-based features:
 The example input files are placed at /HIVPRE/data/ while outputs for them can be found at /HIVPRE/data/Example_output/.
 
 Here is the list and description:
-- DNA_CDs_example.txt -- 3 coding sequence in [FASTA format](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp).
-- mRNA_example.txt -- 3 mRNA sequence in FASTA format.
-- Protein_example.txt -- 3 protein sequence in FASTA format.
+- DNA_CDs_example.txt -- 3 coding sequences in [FASTA format](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp).
+- mRNA_example.txt -- 3 mRNA sequences in FASTA format.
+- Protein_example.txt -- 3 protein sequences in FASTA format.
 - Gene_Ontology_example.txt -- 6 genes ontology annotaion data. 
 
 
