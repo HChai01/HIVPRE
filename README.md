@@ -30,6 +30,9 @@ Here is the list and description for the input examples:
 - Protein_example.txt -- 3 protein sequences in FASTA format.
 - Gene_Ontology_example.txt -- 6 genes ontology annotaion data. 
 
+# Web server
+Our web server for the HIVPRE project is accessible at: http://hivpre.cvr.gla.ac.uk/.
+
 # Citation
 Haiting Chai, Quan Gu, Joseph Hughes and David L. Robertson (202X), In silico prediction of HIV-1-host molecular interactions and their directionality, PLOS Computational Biology, XX(X): XXX-XXX, PMID: XXXXXXXX.
 
