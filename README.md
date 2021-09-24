@@ -22,7 +22,7 @@ Our codes require support from [Java Platform and Standard Edition Development K
 Please install one before using our codes.
 
 # Input and output examples
-The example input files are placed at /HIVPRE/data/ while outputs for them can be found at /HIVPRE/data/Example_output/.
+The example input files are placed at /HIVPRE/data/ while outputs for them can be found at /HIVPRE/Example_output/.
 
 Here is the list and description for the input examples:
 - DNA_CDs_example.txt -- 3 coding sequences in [FASTA format](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp).
