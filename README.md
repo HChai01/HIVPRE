@@ -19,8 +19,7 @@ For gene ontology-based features:
 # Environment and settings
 Our codes require support from [Java Platform and Standard Edition Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/#jdk17-linux). 
 
-We recommend to install [Eclipse IDE](https://www.eclipse.org/downloads/packages/release/kepler/sr2/eclipse-ide-java-ee-developers) to run our codes.
-
+Please install one before using our codes.
 
 # Input and output examples
 The example input files are placed at /HIVPRE/data/ while outputs for them can be found at /HIVPRE/data/Example_output/.
