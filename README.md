@@ -21,7 +21,7 @@ Our codes require support from [Java Platform and Standard Edition Development K
 
 It is well supported in Linux or MAX OS.
 
-There are only three simple steps to use our codes:
+There are only five simple steps to use our codes:
 - Step 1: install a JDK environment on your computer;
 - Step 2: download 'Compiled_code.zip' and uncompress it;
 - Step 3: add your nucleotide, protein sequences or gene ontology profiles in the example files (e.g., /compiled_code/data/Protein_example.txt);
