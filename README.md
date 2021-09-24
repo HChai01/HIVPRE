@@ -16,10 +16,17 @@ For gene ontology-based features:
 - GO_root_molecular_function.java -- map the Gene Ontology term to 16 child term of [molecular function](https://www.ebi.ac.uk/QuickGO/term/GO:0003674) through the derivation tree.
 - GO_root_cellular_component.java -- map the Gene Ontology term to 21 child term of [cellular component](https://www.ebi.ac.uk/QuickGO/term/GO:0005575) through the derivation tree.
 
-# Environment and settings
+# Instruction
 Our codes require support from [Java Platform and Standard Edition Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/#jdk17-linux). 
 
-Please install one before using our codes.
+It is well supported in Linux or MAX OS.
+
+There are only three simple steps to use our codes:
+- Step 1: install a JDK environment on your computer;
+- Step 2: download 'Compiled_code.zip' and uncompress it;
+- Step 3: add your nucleotide, protein sequences or gene ontology profiles in the example files (e.g., /compiled_code/data/Protein_example.txt);
+- Step 4: ues 'Terminal' to the directory of 'Compiled_code';
+- Step 5: use 'java [program_name]' to encode features for your sequences or gene ontology profiles.
 
 # Input and output examples
 The example input files are placed at /HIVPRE/data/ while outputs for them can be found at /HIVPRE/Example_output/.
