@@ -1,0 +1,7 @@
+Index	Headinfo	extracellular_region	cell	nucleoid	membrane	virion	cell_junction	membrane-enclosed_lumen	protein-containing_complex	organelle	other_organism	other_organism_part	extracellular_region_part	organelle_part	virion_part	membrane_part	synapse_part	cell_part	synapse	symplast	mitochondrion-associated_adherens_complex	supramolecular_complex
+G1	CCR5-201	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+G2	CCR5-201	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+G3	CCR5-201	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0
+G4	CXCR4-201	0	0	0	1	0	1	0	1	1	0	0	1	0	0	1	0	1	0	0	0	0
+G5	Error_example1	Septation chaos.
+G6	Error_example2	Septation unrecognized.
