@@ -1,4 +1,0 @@
-Index	Headinfo	Adenine_composition	Thymine_composition	Cytosine_composition	Guanine_composition	AT_composition	AC_composition	AG_composition	ApA_composition	ApT_composition	ApC_composition	ApG_composition	TpA_composition	TpT_composition	TpC_composition	TpG_composition	CpA_composition	CpT_composition	CpC_composition	CpG_composition	GpA_composition	GpT_composition	GpC_composition	GpG_composition
-S1	CCR5-201 cds:protein_coding	0.2342	0.2946	0.2559	0.2153	0.5288	0.4901	0.4495	6.8998	6.6163	4.7259	5.1040	3.5917	7.7505	9.5463	8.6011	7.8450	10.3025	5.6711	1.7958	5.0095	4.8204	5.6711	6.0491
-S1059	CCR5-202 cds:protein_coding	0.2342	0.2946	0.2559	0.2153	0.5288	0.4901	0.4495	6.8998	6.6163	4.7259	5.1040	3.5917	7.7505	9.5463	8.6011	7.8450	10.3025	5.6711	1.7958	5.0095	4.8204	5.6711	6.0491
-S1059	CD4-201 cds:protein_coding	0.2549	0.2041	0.2556	0.2854	0.4590	0.5105	0.5403	7.9215	3.2703	4.9419	9.3023	2.2529	3.9244	6.0320	8.2122	7.0494	8.1395	8.3576	2.0349	8.2122	5.0872	6.2500	9.0116

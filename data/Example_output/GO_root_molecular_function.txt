@@ -1,7 +1,0 @@
-Index	Headinfo	catalytic_activity	structural_molecule_activity	transporter_activity	binding	antioxidant_activity	protein_tag	cargo_receptor_activity	protein_folding_chaperone	translation_regulator_activity	nutrient_reservoir_activity	molecular_transducer_activity	toxin_activity	molecular_function_regulator	molecular_carrier_activity	transcription_regulator_activity	small_molecule_sensor_activity
-G1	CCR5-201	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-G2	CCR5-201	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-G3	CCR5-201	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0
-G4	CXCR4-201	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0
-G5	Error_example1	Septation chaos.
-G6	Error_example2	Septation unrecognized.

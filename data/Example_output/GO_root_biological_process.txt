@@ -1,7 +1,0 @@
-Index	Headinfo	reproduction	cell_killing	immune_system_process	sulfur_utilization	phosphorus_utilization	behavior	metabolic_process	cell_population_proliferation	carbohydrate_utilization	cellular_process	carbon_utilization	nitrogen_utilization	reproductive_process	biological_adhesion	signaling	multicellular_organismal_process	developmental_process	growth	locomotion	pigmentation	biological_phase	rhythmic_process	response_to_stimulus	localization	multi-organism_process	biological_regulation	cellular_component_organization_or_biogenesis	cell_aggregation	detoxification
-G1	CCR5-201	0	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	1	1	1	1	0	0
-G2	CCR5-201	0	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	1	1	1	1	0	0
-G3	CCR5-201	0	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	1	1	1	1	0	0
-G4	CXCR4-201	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	1	0	1	1	1	0	0
-G5	Error_example1	Septation chaos.
-G6	Error_example2	Septation unrecognized.
