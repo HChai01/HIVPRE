@@ -19,7 +19,7 @@ For gene ontology-based features:
 # Instruction
 Our codes require support from [Java Platform and Standard Edition Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/#jdk17-linux). 
 
-It is well supported in Linux or MAX OS.
+They are well supported in Linux or MAX OS.
 
 There are only five simple steps to use our codes:
 - Step 1: install a JDK environment on your computer;
