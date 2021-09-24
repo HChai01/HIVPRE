@@ -3,17 +3,17 @@ This is the Java implementation for encoding some genome-, proteome- and gene on
 
 Here is the list and description:
 For genome-based features:
-- Nucleotide_composition.java -- calculate 23 nucleotide composition in the coding sequence.
-- Codon_usage_CDS.java -- calculate 64 codon usage in the coding sequence.
-- Codon_usage_mRNA.java -- calculate 64 codon usage in the mRNA.
+- Nucleotide_composition.class -- calculate 23 nucleotide composition in the coding sequence.
+- Codon_usage_CDS.class -- calculate 64 codon usage in the coding sequence.
+- Codon_usage_mRNA.class -- calculate 64 codon usage in the mRNA.
 
 For proteome-based features:
-- Amino_acid_composition.java -- calculate 37 amino acid composition in the coding sequence.
+- Amino_acid_composition.class -- calculate 37 amino acid composition in the coding sequence.
 
 For gene ontology-based features:
-- GO_root_biological_process.java -- map the Gene Ontology term to 29 child term of [biological process](https://www.ebi.ac.uk/QuickGO/term/GO:0008150) through the derivation tree.
-- GO_root_molecular_function.java -- map the Gene Ontology term to 16 child term of [molecular function](https://www.ebi.ac.uk/QuickGO/term/GO:0003674) through the derivation tree.
-- GO_root_cellular_component.java -- map the Gene Ontology term to 21 child term of [cellular component](https://www.ebi.ac.uk/QuickGO/term/GO:0005575) through the derivation tree.
+- GO_root_biological_process.class -- map the Gene Ontology term to 29 child term of [biological process](https://www.ebi.ac.uk/QuickGO/term/GO:0008150) through the derivation tree.
+- GO_root_molecular_function.class -- map the Gene Ontology term to 16 child term of [molecular function](https://www.ebi.ac.uk/QuickGO/term/GO:0003674) through the derivation tree.
+- GO_root_cellular_component.class -- map the Gene Ontology term to 21 child term of [cellular component](https://www.ebi.ac.uk/QuickGO/term/GO:0005575) through the derivation tree.
 
 # Environment and settings
 Our codes require support from [Java Platform and Standard Edition Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/#jdk17-linux). 
