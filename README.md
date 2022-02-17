@@ -41,6 +41,6 @@ Here is the list and description for the input examples:
 Our web server for the HIVPRE project is accessible at: http://hivpre.cvr.gla.ac.uk/.
 
 # Citation
-Haiting Chai, Quan Gu, Joseph Hughes and David L. Robertson (202X), In silico prediction of HIV-1-host molecular interactions and their directionality, PLOS Computational Biology, XX(X): XXX-XXX, PMID: XXXXXXXX.
+Chai H, Gu Q, Hughes J, Robertson DL (2022) In silico prediction of HIV-1-host molecular interactions and their directionality. PLoS Comput Biol 18(2): e1009720. https://doi.org/10.1371/journal.pcbi.1009720
 
 
