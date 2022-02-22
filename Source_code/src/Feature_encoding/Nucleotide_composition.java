@@ -36,7 +36,7 @@ import java.text.DecimalFormat;
  * F22: GpC_composition;
  * F23: GpG_composition.
  * 
- * Citation: Haiting Chai, Quan Gu, Joseph Hughes and David L. Robertson (202X), In silico prediction of HIV-1-host molecular interactions and their directionality, PLOS Computational Biology, XX(X): XXX-XXX, PMID: XXXXXXXX.
+ * Citation: Chai H, Gu Q, Hughes J, Robertson DL (2022) In silico prediction of HIV-1-host molecular interactions and their directionality. PLoS Comput Biol 18(2): e1009720. https://doi.org/10.1371/journal.pcbi.1009720.
  * 
  * */
 
