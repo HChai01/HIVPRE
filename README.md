@@ -26,7 +26,7 @@ There are only five simple steps to use our codes:
 - Step 2: download 'Compiled_code.zip' and uncompress it;
 - Step 3: add your nucleotide, protein sequences or gene ontology profiles in the example files (e.g., /compiled_code/data/Protein_example.txt);
 - Step 4: ues 'Terminal' to the directory of 'Compiled_code';
-- Step 5: use 'java [program_name]' to encode features for your sequences or gene ontology profiles.
+- Step 5: use 'java [program_name]' to encode features for your sequences or gene ontology profiles (e.g., ‘java Nucleotide_composition‘).
 
 # Input and output examples
 The example input files are placed at /HIVPRE/data/ while outputs for them can be found at /HIVPRE/Example_output/.
