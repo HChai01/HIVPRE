@@ -28,7 +28,7 @@ import java.io.Writer;
  * F15:	GO:0140110	transcription_regulator_activity
  * F16:	GO:0140299	small_molecule_sensor_activity
  * 
- * Citation: Haiting Chai, Quan Gu, Joseph Hughes and David L. Robertson (202X), In silico prediction of HIV-1-host molecular interactions and their directionality, PLOS Computational Biology, XX(X): XXX-XXX, PMID: XXXXXXXX.
+ * Citation: Chai H, Gu Q, Hughes J, Robertson DL (2022) In silico prediction of HIV-1-host molecular interactions and their directionality. PLoS Comput Biol 18(2): e1009720. https://doi.org/10.1371/journal.pcbi.1009720.
  * 
  * */
 
