@@ -19,10 +19,10 @@ For gene ontology-based features:
 # Instruction
 Our codes require support from [Java Platform and Standard Edition Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/#jdk17-linux). 
 
-They are well supported in Linux or MAX OS.
+They are well supported in Linux or mac OS.
 
 There are only five simple steps to use our codes:
-- Step 1: install a JDK environment on your computer;
+- Step 1: install a JDK (version 8+) environment on your computer;
 - Step 2: download 'Compiled_code.zip' and uncompress it;
 - Step 3: add your nucleotide, protein sequences or gene ontology profiles in the example files (e.g., /compiled_code/data/Protein_example.txt);
 - Step 4: ues 'Terminal' to the directory of 'Compiled_code';
