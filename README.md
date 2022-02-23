@@ -24,7 +24,7 @@ They are well supported in Linux or mac OS.
 There are only five simple steps to use our codes:
 - Step 1: install a JDK (version 8+) environment on your computer;
 - Step 2: download [Compiled_code.zip](https://github.com/HChai01/HIVPRE/blob/main/Compiled_code.zip) and uncompress it;
-- Step 3: add your nucleotide, protein sequences or gene ontology profiles in the example files (e.g., /compiled_code/data/Protein_example.txt);
+- Step 3: add your nucleotide, protein sequences or gene ontology profiles in the example files (e.g., `/compiled_code/data/Protein_example.txt`);
 - Step 4: ues 'Terminal' to the directory of 'Compiled_code';
 - Step 5: use 'java [program_name]' to encode features for your sequences or gene ontology profiles (e.g., `java Nucleotide_composition`).
 
